@@ -1,0 +1,3 @@
+function greetingMessage(){
+    alert("Greetings!!!");
+}
